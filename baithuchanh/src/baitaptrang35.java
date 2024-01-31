@@ -14,7 +14,7 @@ else if ( b>a){
     System.out.println("so be hon la: "+ a);
 }
 else{
-    System.out.println("hai so bang nhau va bang: "+a );
+    System.out.println("hai so bang nhau : "+a );
     sc.close();
 }
  }
