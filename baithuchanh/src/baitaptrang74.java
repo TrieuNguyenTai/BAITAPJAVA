@@ -13,13 +13,13 @@ public class baitaptrang74 {
         System.out.print("nhap phan tu thu "+i + ": ");
          A[i] = sc.nextInt();
     }
-    int Tong =0;
+    int sum =0;
     for (int i = 0; i < n; i++){
         if (A[i] % 2 == 0) {
-            Tong+=A[i];
+            sum+=A[i];
         }
     }
-    System.out.println("Tong: " + Tong);
+    System.out.println("Tong: " + sum);
     sc.close();
    }
 }
