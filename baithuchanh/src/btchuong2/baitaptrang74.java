@@ -1,3 +1,5 @@
+package btchuong2;
+
 import java.util.Scanner;
 public class baitaptrang74 {
     public static void main(String[] args) {

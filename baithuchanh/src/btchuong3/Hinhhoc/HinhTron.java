@@ -1,3 +1,4 @@
+package btchuong3.Hinhhoc;
 import java.util.Scanner;
 
 public class HinhTron {
@@ -16,10 +17,10 @@ public class HinhTron {
 public void tinhdientich(){
     dienTich = Pi * banKinh * banKinh;
 }
-void inchuvi(){
+ public void inchuvi(){
     System.out.println("chu vi =" + chuVi);
 }
-void indientich(){
+ public void indientich(){
     System.out.println("dien tich ="+ dienTich);
 }
 }

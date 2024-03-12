@@ -1,3 +1,5 @@
+package btchuong2;
+
 public class baitaptrang55 {
     public static void main(String[] args) {
         System.out.println("cac so chia het cho 5: ");

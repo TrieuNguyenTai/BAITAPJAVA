@@ -1,3 +1,4 @@
+package btchuong3;
 import java.util.Scanner;
 public class Student {
 public String hoTen;
@@ -8,21 +9,25 @@ public void nhapHoten(){
     Scanner sc = new Scanner(System.in);
     System.out.print("Ho Ten : ");
     hoTen = sc.nextLine();
+    sc.close();
  }
   public void nhapGioitinh(){
     Scanner sc = new Scanner(System.in);
     System.out.print("gioi tinh : ");
     gioiTinh = sc.nextLine();
+    sc.close();
  }
  public void  nhaptuoi(){
     Scanner sc = new Scanner(System.in);
     System.out.println("tuoi:");
     tuoi = sc.nextInt();
+    sc.close();
 }
   public void nhapMSV(){
     Scanner sc = new Scanner(System.in);
     System.out.print("Ma sinh vien : ");
     MSV = sc.nextLine();
+    sc.close();
  }
  public int tinhTuoi(){
     tuoi = 2024-tuoi;
