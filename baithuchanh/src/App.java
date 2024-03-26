@@ -1,11 +1,9 @@
-import btchuong3.Student;
+import btchuong3.Hinhhoc.kethuaperson.emfulltime;
 public class App {
     public static void main(String[] args) throws Exception {
-        Student st = new Student();
-        st.nhapGioitinh();
-        st.nhapHoten();
-        st.nhapMSV();
-        st.nhaptuoi();
-        st.inthongtin();
+       emfulltime ft = new emfulltime();
+       ft.nhapttn();
+       ft.nhapsongaycong();
+       ft.inttn();
 }
 }
