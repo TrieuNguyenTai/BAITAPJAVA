@@ -30,12 +30,7 @@ public class Employee {
         System.out.print("Chuc vu: ");
         chucVu = sc.nextLine();
     }
-
-    public void tinhtuoi() {
-        tuoi = 2024 - tuoi;
-    }
-
-    void inthongtin() {
+        void inthongtin() {
         System.out.println("Ho va ten: " + hoTen);
         System.out.println("Gioi tinh: " + gioiTinh);
         System.out.println("Chuc vu: " + chucVu);
@@ -49,7 +44,6 @@ public class Employee {
         nv.nhapgioitinh();
         nv.nhapchucvu();
         nv.nhaptuoi();
-        nv.tinhtuoi();
         nv.inthongtin();
     }
 }
