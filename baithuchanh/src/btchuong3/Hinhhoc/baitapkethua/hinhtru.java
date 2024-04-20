@@ -3,6 +3,7 @@ package btchuong3.Hinhhoc.baitapkethua;
 import java.util.Scanner;
 
 public class hinhtru extends hinhtron {
+    
     public float chieucao;
     public hinhtru(){
         Ten = "hinh tru";
