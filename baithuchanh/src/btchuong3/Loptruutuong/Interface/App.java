@@ -6,5 +6,6 @@ public class App {
         ct.print();
         ct.subject();
         ct.map();
+        ct.kid();
     }
 }

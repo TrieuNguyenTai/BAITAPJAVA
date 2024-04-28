@@ -4,6 +4,7 @@ public interface congty {
     void print();
     void subject();
     void map();
+    void kid();
 }
 
     
