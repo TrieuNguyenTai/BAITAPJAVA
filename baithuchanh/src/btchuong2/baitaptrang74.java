@@ -6,7 +6,7 @@ public class baitaptrang74 {
         int n;
         Scanner sc = new Scanner(System.in);
           do {
-           System.out.println("nhap cac phan tu cua mang: ");
+           System.out.println("nhap cac phan tu cua mang la: ");
            n = sc.nextInt();
           } while (n < 0);
         int A[] = new int[n];
