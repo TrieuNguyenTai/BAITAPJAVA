@@ -41,7 +41,7 @@ public void nhapHoten(){
 }
     public static void main(String[] args) {
         Student hs  = new Student();
-        System.out.println("nhap vao thong tin sinh vien:");
+        System.out.println("nhap vao thong tin sinh vien la:");
         hs.nhapHoten();
         hs.nhapGioitinh();
         hs.nhaptuoi();
