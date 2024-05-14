@@ -5,7 +5,7 @@ public class bai11trang97 {
         Scanner sc = new Scanner(System.in);
         int n;
         do{
-            System.out.print("nhap mang: ");
+            System.out.print("nhap mang la: ");
             n = sc.nextInt();
         }while(n<=0);
         int A[]=new int[n];
