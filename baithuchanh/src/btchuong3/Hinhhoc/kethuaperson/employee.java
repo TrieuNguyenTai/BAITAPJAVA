@@ -8,7 +8,7 @@ public String chucVu;
 public String phongBan;
 public float Luong;
 public void nhapttn(){
-    System.out.println("ma nhan vien:");
+    System.out.println("ma nhan vien la:");
     Scanner sc = new Scanner(System.in);
     Manv = sc.nextInt();
     super.nhapthongtin();

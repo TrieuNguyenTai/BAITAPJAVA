@@ -10,7 +10,7 @@ public class emparttime extends employee {
     }
     public void nhapsogiocong(){
         Scanner sc = new Scanner(System.in);
-        System.out.println("nhap so cong:");
+        System.out.println("nhap so cong la:");
         socong =sc.nextInt();
     }
     public void tinhluong(){

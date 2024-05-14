@@ -10,7 +10,7 @@ public class emfulltime extends employee {
     }
     public void nhapsongaycong(){
         Scanner sc = new Scanner(System.in);
-        System.out.print("Nhap vao so ngay cong : ");
+        System.out.print("Nhap vao so ngay cong la: ");
         socong = sc.nextInt();
     }
     public void tinhluong(){

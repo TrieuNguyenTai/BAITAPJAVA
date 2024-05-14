@@ -10,7 +10,7 @@ public class person {
     public float chieuCao;
     public float canNang;
     public void nhapthongtin(){
-        System.out.println("ho ten:");
+        System.out.println("ho ten la:");
         System.out.println("tuoi:");
         System.out.println("chieu cao:");
         System.out.println("can nang:");
