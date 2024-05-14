@@ -5,7 +5,7 @@ public class bai6trang95 {
     long gt = 1;
     Scanner sc = new Scanner(System.in);
     do {
-           System.out.println("nhap vao mọt so bat ky:");
+           System.out.println("nhap vao mọt so bat ky la:");
               n = sc.nextInt();
         } while (n < 0);
             while (temp <= n) {
