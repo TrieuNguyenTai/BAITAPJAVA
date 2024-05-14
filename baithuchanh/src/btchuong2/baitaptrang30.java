@@ -15,7 +15,7 @@ public class baitaptrang30 {
         n = n/10;
         sum += du;
      }
-     System.out.println("tong cac chu so la:" + sum);
+     System.out.println("tong cua cac chu so da nhap la:" + sum);
      sc.close();
     }
 }
