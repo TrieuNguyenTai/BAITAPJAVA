@@ -8,7 +8,7 @@ public class hinhtron extends hinhhoc{
         Ten = "hinh tron";
     }
  public void nhapbanKinh(){
-    System.out.println("nhap ban kinh:");
+    System.out.println("nhap ban kinh la:");
     Scanner sc = new Scanner(System.in);
     bankinh = sc.nextFloat();
  }

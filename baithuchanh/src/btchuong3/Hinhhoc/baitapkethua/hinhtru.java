@@ -10,7 +10,7 @@ public class hinhtru extends hinhtron {
     }
     public void nhapchieucao(){
         nhapbanKinh();
-        System.out.println("chieu cao:");
+        System.out.println("chieu cao la:");
         Scanner sc = new Scanner (System.in);
         chieucao = sc.nextFloat();
     }

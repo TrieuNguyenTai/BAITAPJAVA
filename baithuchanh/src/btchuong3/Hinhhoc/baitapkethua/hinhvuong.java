@@ -7,7 +7,7 @@ public class hinhvuong extends hinhchunhat {
         Ten ="hinh vuong";
     }
     public void nhapcanh(){
-        System.out.println("nhap canh:");
+        System.out.println("nhap canh la:");
         Scanner sc = new Scanner(System.in);
         chieudai = chieurong = sc.nextFloat();
         }

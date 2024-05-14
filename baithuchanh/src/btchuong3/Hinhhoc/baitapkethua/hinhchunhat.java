@@ -9,12 +9,12 @@ public class hinhchunhat extends hinhhoc {
         Ten = "hinh chu nhat";
     }
     public void nhapchieudai(){
-        System.out.println("chieu dai:");
+        System.out.println("chieu dai la:");
         Scanner sc = new Scanner(System.in);
         chieudai =sc.nextFloat();
     } 
     public void nhapchieurong(){
-        System.out.println("chieu rong:");
+        System.out.println("chieu rong la:");
         Scanner sc = new Scanner(System.in);
         chieurong =sc.nextFloat();
     } 
@@ -24,5 +24,4 @@ public class hinhchunhat extends hinhhoc {
     public void tinhdientich(){
         Dientich = chieudai * chieurong;
     }
-
 }
