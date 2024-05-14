@@ -8,7 +8,7 @@ public class baitaptrang30 {
         int du;
         int sum = 0;
         Scanner sc = new Scanner(System.in);  
-      System.out.println("nhap vao so nguyen duong bat ky n:");
+      System.out.println("nhap vao so nguyen duong bat ky la n:");
        n = sc.nextInt();
      while (n>0){
         du = n%10;
