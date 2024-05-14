@@ -18,10 +18,16 @@ public void tinhdientich(){
     dienTich = Pi * banKinh * banKinh;
 }
  public void inchuvi(){
-    System.out.println("chu vi =" + chuVi);
+    System.out.println("chu vi bằng" + chuVi);
 }
  public void indientich(){
-    System.out.println("dien tich ="+ dienTich);
+    System.out.println("dien tich bằng"+ dienTich);
+}
+public static void main(String[] args) throws Exception {
+    HinhTron ht = new HinhTron();
+    ht.nhapbanKinh();
+    ht.tinhchuvi();
+    ht.inchuvi();
 }
 }
 
