@@ -18,7 +18,7 @@ public class giaiphuongtrinhbac1 {
      System.out.println(" khong phai ngiem phuong trinh.");
     }else{
         x = -b/a;
-    System.out.println("phuong trinh co nghiem x1= " + x);}
+    System.out.println("phuong trinh tren co nghiem x1= " + x);}
      sc.close();
 }
 }
