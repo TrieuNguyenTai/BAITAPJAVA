@@ -10,7 +10,7 @@ public class pketoan implements congty {
     System.out.println("hoc cac mon co so khi lam ke toan");
     }
     public void map(){
-        System.out.println("\nmuon lam ke toan phai co tinh can than va ti mi");
+        System.out.println("\nmuon lam ke toan phai co tinh can than va ti mi rat cao");
     }
     public void kid(){
         System.out.println("\nmuon luong cao phai lam tang ca");
