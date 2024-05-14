@@ -5,7 +5,7 @@
             int n;
             int sum = 0;
             do{
-                System.out.println("Nhap so nguyen duong ");
+                System.out.println("Nhap so nguyen duong la ");
                 n = sc.nextInt();
                 sum = sum +n;
             }while(sum<100);
