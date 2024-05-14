@@ -9,7 +9,7 @@ public class Student {
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhap thong tin sinh vien la:");
         FullName =sc.nextLine();
-        System.out.println("Nhaop tuoi sinh vien:");
+        System.out.println("Nhaop tuoi cua sinh vien:");
         Age = sc.nextInt();
     }
     public void InThongTin(){
