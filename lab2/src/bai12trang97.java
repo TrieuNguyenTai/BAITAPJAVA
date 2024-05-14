@@ -26,7 +26,7 @@ public class bai12trang97 {
                 max = arr[i][j];
             }
         }
-        System.out.print("so lon nhat trong mtrx la: "+max);
+        System.out.print("so lon nhat trong mtrx : "+max);
         sc.close();
 }
 }
