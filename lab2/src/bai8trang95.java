@@ -4,7 +4,7 @@ public class bai8trang95 {
     Scanner sc = new Scanner(System.in);
     int n;
     float sum = 0;
-    System.out.print("nhap vao so cac so nguyen: ");
+    System.out.print("nhap vao so cac so nguyen la: ");
     n = sc.nextInt();
     for(int i=0;i<n;i++){
         System.out.print("so nguyen thu "+(i+1)+": ");
