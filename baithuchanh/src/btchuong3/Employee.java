@@ -39,7 +39,7 @@ public class Employee {
 
     public static void main(String[] args) {
         Employee nv = new Employee();
-        System.out.println("Nhap vao thong tin cua nhan vien:");
+        System.out.println("Nhap vao thong tin cua nhan vien la:");
         nv.nhaphoten();
         nv.nhapgioitinh();
         nv.nhapchucvu();
