@@ -3,7 +3,7 @@ public class bai9trang96 {
     public static void main(String[] args) {
         String chuoi= new String();
         Scanner sc= new Scanner(System.in);
-        System.out.print("nhap chuoi ky tu: ");
+        System.out.print("nhap chuoi ky tu la: ");
         chuoi=sc.nextLine();
         int demthuong=0;
         int demhoa=0;
