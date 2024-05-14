@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class sl21 {
     public static void main(String[] args) {
     ArrayList<Integer> arrListIntegers = new ArrayList<>();
-       arrListIntegers.add(1);
+       arrListIntegers.add(2);
        arrListIntegers.add(4);
        arrListIntegers.add(7);
        arrListIntegers.add(5);
