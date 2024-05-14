@@ -6,7 +6,7 @@ import java.util.Scanner;
     String kytu = new String();
     int dem = 0;
     do{
-        System.out.print("nhap chuoi ky tu: ");
+        System.out.print("nhap chuoi ky tu la: ");
         chuoi = sc.nextLine();
     }while(chuoi.length()>80);
     do{
