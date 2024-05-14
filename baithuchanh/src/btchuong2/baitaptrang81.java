@@ -11,7 +11,7 @@ public class baitaptrang81 {
     System.out.println("nhap vao so cot cua mtrx:");
     n = sc.nextInt();
     int A[][]= new int [m][n];
-    System.out.println("nhap cac phan tu mtrx:");
+    System.out.println("nhap vao cac phan tu mtrx:");
     for (int i=0;i<m;i++){
         for (int j= 0;j<n;j++){
             System.out.println("A[" +i+"]["+j+"]=");
