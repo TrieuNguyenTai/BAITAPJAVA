@@ -26,7 +26,7 @@ public class giaiphuongtrinhbac2 {
         } else{
             x1 = (-b + Math.sqrt(dental))/(2*a);
             x2 = (-b - Math.sqrt(dental))/(2*a);
-          System.out.println("phuong trinh co 2 nghiem x1 = "+x1 + " va X2 = "+ x2);
+          System.out.println("phuong trinh tren co 2 nghiem x1 = "+x1 + " va X2 = "+ x2);
         }
             }
             else{ System.out.println("khong phai phuong trinh bac 2");
