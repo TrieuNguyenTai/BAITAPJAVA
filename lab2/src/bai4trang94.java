@@ -3,7 +3,7 @@ public class bai4trang94 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int thang;
-         System.out.println("nhap thang: ");
+         System.out.println("nhap thang vao: ");
          thang = sc.nextInt();
         switch (thang) {
             case 1:
