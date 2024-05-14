@@ -19,6 +19,10 @@ public void inthongtin(){
   public void inthongtin(String Ten, int Tuoi, String ngheNghiep, String gioiTinh){
     System.out.println(Ten + "-"+Tuoi+"-" + ngheNghiep +"-"+gioiTinh);
   }
+  public static void main(String[] args) {
+    Person ps = new Person();
+    ps.inthongtin();
+  }
 }
 
 
