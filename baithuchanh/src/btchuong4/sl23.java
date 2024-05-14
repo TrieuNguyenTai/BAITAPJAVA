@@ -21,6 +21,6 @@ public class sl23 {
                 max= arrayListIntegers.get(i);
             }
         }
-        System.out.println("so lon nhat trong mang la:"+max);
+        System.out.println("so lon nhat trong mang tren la:"+max);
     }
 }
