@@ -14,7 +14,7 @@ package btchuong2;
                 case 5:System.out.println(" thu 6");break;
                 case 6:System.out.println(" thu 7");break;
                 case 7:System.out.println(" chu nhat");break;
-                default:System.out.println(" khong co ngay trong tuan");
+                default:System.out.println(" khong co ngay nay trong tuan");
             }
             sc.close();
         }
