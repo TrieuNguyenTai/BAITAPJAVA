@@ -4,7 +4,7 @@ public class bai3trang93{
          Scanner sc = new Scanner(System.in);
         System.out.println("Nhap ho va ten ");
         String name = sc.nextLine();
-        System.out.println("Nhap tuoi ");
+        System.out.println("Nhap vao tuoi ");
         int age = sc.nextInt();
         if(age<16){
             System.out.println("Ban "+ name + " o do tuoi vi thanh nien ");
