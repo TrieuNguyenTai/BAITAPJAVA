@@ -7,7 +7,7 @@ public class baitaptrang90 {
        String chuoi;
        char kytu;
        Scanner sc = new Scanner(System.in);
-       System.out.println("nhap vao chuoi:" );
+       System.out.println("nhap vao chuoi la:" );
        chuoi = sc.nextLine();
        System.out.println("cac ky tu cua chuoi la:");
         for(int i =0;i <chuoi.length();i++){
