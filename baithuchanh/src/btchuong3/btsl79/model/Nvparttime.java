@@ -10,7 +10,7 @@ public class Nvparttime extends Nhanvien {
     }
     @Override
     public String loaiNhanvien(){
-        return " nhan vien parttime";
+        return " nhan vien parttime đấy";
     }
     public void tinhluong(){
         Luong = configs.Luong_nv_part_time_moi_gio * giolamviec;

@@ -18,7 +18,7 @@ public void  xetloaichucvu(int Loaichucvu){
 }
 @Override
 public String loaiNhanvien(){
-    return " nhan vien fulltime";
+    return " nhan vien fulltime đấy";
 }
 public void tinhluong(){
     if(Loaichucvu == configs.Nhan_vien_sep){
