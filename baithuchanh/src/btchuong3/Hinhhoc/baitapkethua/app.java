@@ -5,6 +5,5 @@ public static void main(String[] args) {
         ht.nhapbanKinh();
         ht.tinhchuvi();
         ht.tinhdientich();
-
 }
 }
