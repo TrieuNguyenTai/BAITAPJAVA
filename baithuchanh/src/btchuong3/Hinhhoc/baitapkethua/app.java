@@ -5,5 +5,10 @@ public static void main(String[] args) {
         ht.nhapbanKinh();
         ht.tinhchuvi();
         ht.tinhdientich();
+        hinhchunhat hcn = new hinhchunhat();
+        hcn.nhapchieudai();
+        hcn.nhapchieurong();
+        hcn.tinhchuvi();
+
 }
 }
