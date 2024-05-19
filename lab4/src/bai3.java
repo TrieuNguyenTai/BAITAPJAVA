@@ -34,7 +34,7 @@ public class bai3 {
             students.add(st);
             studentMap.put(Hoten.toLowerCase(), st); 
         }
-        System.out.println("\nsinh vien co diem <= 5 phai thi lai:");
+        System.out.println("\nsinh vien co diem <= 5 phai thi lai la:");
         int count = 0;
         for (Student st : students) {
             if (st.Diem <= 5) {
