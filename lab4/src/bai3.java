@@ -63,7 +63,7 @@ public class bai3 {
         if (studentMap.containsKey(timkiemten)) {
             System.out.println("thong tin sinh vien can tim la: " + studentMap.get(timkiemten));
         } else {
-            System.out.println("khong tim thay thong tin sinh vien can tim " + timkiemten);
+            System.out.println("khong tim thay thong tin sinh vien can tim: " + timkiemten);
         }
     }
 }
