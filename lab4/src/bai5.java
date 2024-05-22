@@ -24,12 +24,10 @@ public class bai5 {
         for (int i = 0; i < n; i++) {
             System.out.println("nhap vao ma sinh vien: ");
             int msv = sc.nextInt();
-            sc.nextLine();  
             System.out.println("nhap vao ho va ten: ");
             String hoten = sc.nextLine();
             System.out.println("nhap vao ten lop: ");
             int lop = sc.nextInt();
-            sc.nextLine(); 
             Sinhvien sv = new Sinhvien(msv, hoten, lop);
             Std.put(msv, sv);
         }
