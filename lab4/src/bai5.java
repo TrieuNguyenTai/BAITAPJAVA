@@ -22,9 +22,9 @@ public class bai5 {
         int n = sc.nextInt();
         sc.nextLine();  
         for (int i = 0; i < n; i++) {
-            System.out.println("nhap vao ma sinh vien: ");
+            System.out.println("nhap vao ma sinh vien la: ");
             int msv = sc.nextInt();
-            System.out.println("nhap vao ho va ten: ");
+            System.out.println("nhap vao ho va ten la: ");
             String hoten = sc.nextLine();
             System.out.println("nhap vao ten lop: ");
             int lop = sc.nextInt();
